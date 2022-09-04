@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rflishrl](https://github.com/rflishrl)
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **rafliworkspace@gmail.com**
 
