@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif">
 
 
-- 🔭 I’m currently working on **school project**
+- 🔭 I’m currently working on **School Project**
 
 - 🌱 I’m currently learning **Database, Front-end Programming**
 
