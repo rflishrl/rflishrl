@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafli</h1>
 <h3 align="center">A student from SMK Telkom Malang</h3>
-(img align="right" alt="Coding" width="400" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif")
+<img align="right" alt="Coding" width="400" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif">
 
 
 - 🔭 I’m currently working on **school project**
